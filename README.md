@@ -1,4 +1,3 @@
-Hi there 👋
 # Hi there, I'm Aaleeya - 👋 
 
 ## I'm a Daughter, Sister, Tester, and Learner!!
@@ -6,8 +5,8 @@ Hi there 👋
 - 🔭 I’m currently working on WebUIAutomation Project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other QA testers
-- 🥅 2022 Goals: Learn more about automation
-- ⚡ Fun fact: I love to cook indian cuisine
+- 🥅 2022 Goals: Learn more about automation tools
+- ⚡ Fun fact: I love to cook Indian cuisine
 
 <img src="https://image.winudf.com/v2/image/Y29tLkVzY2hhdG9uR2FtZXMuQnVnSHVudGVyX3NjcmVlbl8wXzE1MzUzMjA0ODhfMDY1/screen-0.jpg?fakeurl=1&type=.jpg"/>
 

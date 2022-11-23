@@ -13,8 +13,7 @@ Hi there 👋
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://https://www.linkedin.com/in/aaleeyashaikh/-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https:https://www.linkedin.com/in/aaleeyashaikh/#gh-dark-mode-only)
+(./img/linkedin-dark.svg)](https:https://www.linkedin.com/in/aaleeyashaikh/)
 
 <!--
 **Aaleeya/Aaleeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

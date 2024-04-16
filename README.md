@@ -1,12 +1,12 @@
 # Hi there, I'm Aaleeya - 👋 
 
-## I'm a Daughter, Sister, Tester, and Learner!!
+## I'm a Loving Daughter, Amateur Driver, Professional Tester, and Continuous Learner!!
 
-- 🔭 I’m currently working on WebUIAutomation Project!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other QA testers
-- 🥅 2022 Goals: Learn more about automation tools
-- ⚡ Fun fact: I love to cook Indian cuisine
+- 🔭 I’m currently working on Automation Projects!
+- 🌱 I’m currently learning everything from Agile scrum to Github🤣
+- 👯 I’m looking to upgrade my QA skills and stay up-to-date with current trends
+- 🥅 2024 Goals: Revision of Core Java concepts with Java v21, Web application testing using Selenium 4.0, Jenkins, API Testing using Rest Assured
+- ⚡ Fun fact: I love to cook continental cuisine to satisfy my food cravings :D
 
 <img src="https://image.winudf.com/v2/image/Y29tLkVzY2hhdG9uR2FtZXMuQnVnSHVudGVyX3NjcmVlbl8wXzE1MzUzMjA0ODhfMDY1/screen-0.jpg?fakeurl=1&type=.jpg"/>
 

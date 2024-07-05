@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaleeya Shaikh</h1>
-<h3 align="center">I'm a Loving Daughter, Amateur Driver, Passionate QA Engineer, and Continuous Learner!!</h3>
+<h3 align="center">I'm a Loving Daughter, Passionate QA Engineer, and Continuous Learner!!</h3>
 
 - 🔭 I’m currently working on **Mobile Automation Project**
 

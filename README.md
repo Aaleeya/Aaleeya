@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https:https://www.linkedin.com/in/aaleeyashaikh/**
 
-- ⚡ Fun fact **I love to cook continental cuisine**
+- ⚡ Fun fact **I'm a foodie so I love to cook continental cuisine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

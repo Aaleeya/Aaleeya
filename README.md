@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaleeya Shaikh</h1>
 <h3 align="center">I'm a Loving Daughter, Passionate QA Engineer, and Continuous Learner!!</h3>
 
-- 🔭 I’m currently working on **Mobile Automation Project**
+- 🔭 I’m currently working on **Web Automation Project**
 
-- 🌱 I’m currently learning **Appium, Robot framework, Kubernetes and AWS**
+- 🌱 I’m currently learning **Appium, Robot framework and API testing using RestAssured**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aaleeya](https://github.com/Aaleeya)
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaleeya Shaikh</h1>
-<h3 align="center">Quality Advocate | Passionate QA Engineer | Lifelong Learner</h3>
+<h3 align="center">Quality Advocate | SDET | Lifelong Learner</h3>
 
 - 💻 **Working on Web Automation Projects to enhance my skills in quality assurance**
 

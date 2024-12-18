@@ -3,7 +3,7 @@
 
 - 💻 **Working on Web Automation Projects to enhance my skills in quality assurance**
 
-- 🌱 Currently learning **how to use Gen AI to increase QA productivity**
+- 🌱 Currently re-learning **how to design a test automation framework and solve coding problems using udemy courses and youtube**
 
 - 👯 Passionate about **continuous learning and advancing in Test Automation and Quality Engineering**
 

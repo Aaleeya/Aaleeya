@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aaleeya Shaikh</h1>
 <h3 align="center">Quality Advocate | SDET | Lifelong Learner</h3>
 
-- 💻 **Working on Web Automation Projects to enhance my skills in quality assurance**
+💻 **Working on Web Automation Projects to enhance my skills in quality assurance**
 
-- 🌱 Currently re-learning **how to design a test automation framework and solve coding problems using udemy courses and youtube**
+🌱 Currently re-learning **how to design a test automation framework and solve coding problems**
 
-- 👯 Passionate about **continuous learning and advancing in Test Automation and Quality Engineering**
+👯 Passionate about **continuous learning and advancing in Test Automation and Quality Engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aaleeya](https://github.com/Aaleeya)
+👨‍💻 All of my projects are available at [https://github.com/Aaleeya](https://github.com/Aaleeya)
 
-- 💬 Open to discussions on **Software Testing, Selenium WebDriver, API Testing (SOAP & REST), and Test Automation best practices.**
+💬 Open to discussions on **Software Testing, Selenium WebDriver, API Testing (SOAP & REST), and Test Automation best practices.**
 
-- ⚡ Fun fact **I'm a foodie who loves exploring new recipes and cooking styles!**
+⚡ Fun fact **I'm a foodie who loves exploring new recipes and cooking styles!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

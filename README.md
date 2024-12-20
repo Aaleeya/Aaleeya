@@ -3,7 +3,7 @@
 
 💻 **Working on Web Automation Projects to enhance my skills in quality assurance**
 
-🌱 Currently re-learning **how to design a test automation framework and solve coding problems**
+🌱 Currently re-learning **how to design different types of test automation frameworks and solve coding problems**
 
 👯 Passionate about **continuous learning and advancing in Test Automation and Quality Engineering**
 

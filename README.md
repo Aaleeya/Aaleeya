@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaleeya Shaikh</h1>
 <h3 align="center">Quality Advocate | SDET | Lifelong Learner</h3>
 
-💻 **Working on Web Automation Projects to enhance my skills in quality assurance**
+💻 **Working on Automation Projects to enhance my skills in quality assurance**
 
-🌱 Currently re-learning **how to design different types of test automation frameworks and solve coding problems**
+🌱 Currently learning **how to design different types of test automation frameworks and solve coding problems**
 
 👯 Passionate about **continuous learning and advancing in Test Automation and Quality Engineering**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aaleeyashaikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aaleeyashaikh/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aaleeyashaikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aaleeyashaikh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
